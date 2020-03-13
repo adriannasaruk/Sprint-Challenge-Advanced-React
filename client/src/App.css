@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+display: flex;
+justify-content: center;
+text-align: center;
+font-size : 15px;
+}
+
+.dark-mode {
+  background: grey;
+  color: white;
+}
+
+button{
+  background: red;
+  border: 2px solid black;
+}
